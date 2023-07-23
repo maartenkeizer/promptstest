@@ -2,8 +2,8 @@ import "@styles/globals.css";
 import Nav from "@components/Nav";
 import Provider from "@components/Provider";
 export const metadata = {
-  title: "PromptShare",
-  description: "discover and share promts",
+  title: "LazyPrompts",
+  description: "discover and share cool prompts",
 };
 const RootLayout = ({ children }) => {
   return (
